@@ -1,2 +1,0 @@
-# OA
-OA for MSSWE
